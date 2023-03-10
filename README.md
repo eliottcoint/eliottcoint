@@ -1,4 +1,4 @@
-Hi there, my name is Eliott and I'm a student 🎓 in computer sciences at UTBM (University of Technologie Belfort-Montbeliard).
+Hi there, my name is Eliott and I'm a student 🎓 in computer science at UTBM (University of Technologie Belfort-Montbeliard).
 In my profil, you will find some of my projects 📖. Feel free to look 👇.
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
